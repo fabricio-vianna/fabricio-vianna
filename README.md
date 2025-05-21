@@ -62,60 +62,25 @@
 
 <h2 align="center">Tecnologias que pretendo aprender</h2>
 
-<p align="center">
-  <!-- 🎨 Frontend -->
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-    title="React JS"
-    width="45px"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
-    title="Next JS"
-    width="45px"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-    title="TypeScript"
-    width="45px"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
-    title="Tailwind CSS"
-    width="45px"
-  />
-</p>
+<div align="center" style="width: 100%; margin-bottom: 8px;">
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React JS" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="Next JS" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" width="45px" />
+</div>
 
-<p align="center">
-  <!-- 🧠 Backend -->
+<div align="center" style="width: 100%; margin-bottom: 8px;">
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" width="45px" />
+</div>
 
-<img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-    title="Node.js"
-    width="45px"
-  />
-<img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
-    title="Spring Boot"
-    width="45px"
-  />
-</p>
-
-<p align="center">
-  <!-- 💾 Banco de Dados -->
-
-<img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-    title="MySQL"
-    width="45px"
-  />
-<img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-    title="MongoDB"
-    width="45px"
-  />
-
-</p>
+<div align="center" style="width: 100%; margin-bottom: 8px;">
+  <!-- Banco de Dados -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="45px" />
+</div>
 
 <!-- Seção de Contato -->
 <h2 align="center">🌐 Conecte-se comigo</h2>
