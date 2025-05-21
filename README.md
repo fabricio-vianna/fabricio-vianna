@@ -84,9 +84,9 @@
     title="Tailwind CSS"
     width="45px"
   />
+</p>
 
-<br /><br />
-
+<p align="center">
   <!-- 🧠 Backend -->
 
 <img
@@ -99,9 +99,9 @@
     title="Spring Boot"
     width="45px"
   />
+</p>
 
-<br /><br />
-
+<p align="center">
   <!-- 💾 Banco de Dados -->
 
 <img
