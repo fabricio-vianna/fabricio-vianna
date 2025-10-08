@@ -106,7 +106,7 @@
 <h2 align="center">🌐 Conecte-se comigo</h2>
 
 <p align="center">
-  <a href="https://www.instagram.com/fabricio_076/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/_fabricio.vianna_/" target="_blank" rel="noopener noreferrer">
     <img
       src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge"
       height="26"
