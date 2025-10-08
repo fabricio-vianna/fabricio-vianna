@@ -20,13 +20,11 @@
 
 ## 💻 Desenvolvedor Back-End (Java)
 
-<p>
   🎓 Estudante de **Sistemas de Informação** na **PUC Minas**  
   ☕ Focado em **Desenvolvimento Back-End com Java**  
   💡 Construindo uma base sólida em **POO, JDBC, boas práticas de código e arquitetura de sistemas**  
   🌐 Conhecimentos complementares em **HTML, CSS e JavaScript**  
   🚀 Buscando minha primeira oportunidade como desenvolvedor, com foco em aprendizado contínuo e colaboração em equipe
-</p>
 
 <!-- Seção de Habilidades -->
 <h2 align="center">🛠️ Tecnologias & Ferramentas</h2>
@@ -86,7 +84,7 @@
 
 <div align="center" style="width: 100%; margin-bottom: 8px;">
   <!-- Banco de Dados -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="45px" />
 </div>
 
 <!-- Seção de Projetos -->
@@ -100,6 +98,7 @@
 </div>
 
 <p align="center">
+  <br>
   🧱 <i>Mais projetos acadêmicos e pessoais em desenvolvimento...</i>
 </p>
 
