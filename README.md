@@ -72,13 +72,15 @@
     title="Git"
     width="45px"
   />
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" 
+    title="Spring Boot" width="45px" />
 </p>
 
 <h2 align="center">Tecnologias que pretendo aprender</h2>
 
 <div align="center" style="width: 100%; margin-bottom: 8px;">
   <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" width="45px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" title="Maven" width="45px" />
 </div>
 
