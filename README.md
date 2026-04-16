@@ -56,6 +56,10 @@
     title="MySQL"
     width="45px"
   />
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" 
+    title="Spring Boot" width="45px" 
+  />
   <br>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
@@ -72,9 +76,6 @@
     title="Git"
     width="45px"
   />
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" 
-    title="Spring Boot" width="45px" />
 </p>
 
 <h2 align="center">Tecnologias que pretendo aprender</h2>
