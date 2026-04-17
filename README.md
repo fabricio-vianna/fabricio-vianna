@@ -16,6 +16,8 @@
   </p>
 </div>
 
+---
+
 <!-- Seção de Apresentação -->
 
 ## 💻 Desenvolvedor Back-End (Java)
@@ -26,10 +28,12 @@
   🌐 Conhecimentos complementares em **HTML, CSS e JavaScript**  
   🚀 Buscando minha primeira oportunidade como desenvolvedor, com foco em aprendizado contínuo e colaboração em equipe
 
+---
+
 <!-- Seção de Habilidades -->
 ## 🛠️ Tecnologias & Ferramentas
 
-#### **Languages**
+#### **Linguagens**
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat)
 
@@ -38,17 +42,19 @@
 ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 
-#### **Databases**
+#### **Bancos de Dados**
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![H2](https://img.shields.io/badge/-H2-0A0A0A?style=flat)
 
-#### **Tools**
+#### **Ferramentas**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 
-#### **Other**
+#### **Outros**
 ![JavaFX](https://img.shields.io/badge/-JavaFX-FF6600?style=flat&logo=java&logoColor=white)
+
+---
 
 <!-- Seção de Projetos -->
 ## 🚀 Projetos em Destaque
@@ -84,6 +90,32 @@
   🧱 <i>Mais projetos acadêmicos e pessoais em desenvolvimento...</i>
 </p>
 
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabricio-vianna&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false&bg_color=0D1117&title_color=BD00FF&icon_color=FF6EC7&text_color=00D9FF&cache_seconds=1800" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio-vianna&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=fabricio-vianna&theme=dracula&hide_border=false&background=0D1117&ring=BD00FF&fire=FF6EC7&currStreakLabel=00D9FF" alt="GitHub Streak" />
+</div>
+
+---
+
+## Minha atividade no GitHub
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=fabricio-vianna&bg_color=121212&color=e4e0ff&line=ffffff&point=bbb3ff&area=true&hide_border=true"
+    />
+  </a>
+</p>
+
+---
+
 <!-- Seção de Contato -->
 ## 🌐 Conecte-se comigo
 
@@ -118,14 +150,7 @@
   </a>
 </p>
 
-## Minha atividade no GitHub
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=fabricio-vianna&bg_color=121212&color=e4e0ff&line=ffffff&point=bbb3ff&area=true&hide_border=true"
-    />
-  </a>
-</p>
+---
 
 <p align="center">
   ⭐ <strong>Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus projetos e conectar-se comigo. 🚀</strong>
