@@ -27,78 +27,57 @@
   🚀 Buscando minha primeira oportunidade como desenvolvedor, com foco em aprendizado contínuo e colaboração em equipe
 
 <!-- Seção de Habilidades -->
-<h2 align="center">🛠️ Tecnologias & Ferramentas</h2>
+<h2>🛠️ Tecnologias & Ferramentas</h2>
 
-<p align="center">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-    title="HTML5"
-    width="45px"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-    title="CSS3"
-    width="45px"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-    title="JavaScript"
-    width="45px"
-  />
-  <br>
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-    title="Java"
-    width="45px"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-    title="MySQL"
-    width="45px"
-  />
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" 
-    title="Spring Boot" width="45px" 
-  />
-  <br>
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-    title="VS Code"
-    width="45px"
-  />
-  <img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"
-  title="IntelliJ IDEA"
-  width="45px"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-    title="Git"
-    width="45px"
-  />
-</p>
+<h4>Languages</h4>
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat)
 
-<h2 align="center">Tecnologias que pretendo aprender</h2>
+<h4>Backend</h4>
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-6DB33F?style=flat&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 
-<div align="center" style="width: 100%; margin-bottom: 8px;">
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" title="Maven" width="45px" />
-</div>
+<h4>Databases</h4>
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![H2](https://img.shields.io/badge/-H2-0A0A0A?style=flat)
 
-<div align="center" style="width: 100%; margin-bottom: 8px;">
-  <!-- Banco de Dados -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="45px" />
-</div>
+<h4>Tools</h4>
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+
+<h4>Other</h4>
+![JavaFX](https://img.shields.io/badge/-JavaFX-FF6600?style=flat&logo=java&logoColor=white)
 
 <!-- Seção de Projetos -->
-<h2 align="center">🚀 Projetos em Destaque</h2>
+<h2>🚀 Projetos em Destaque</h2>
 
-<div align="center">
-🔹 <a href="https://github.com/FabricioVianna/SchoolMaster"><b>SchoolMaster</b></a> — Sistema de Gestão Acadêmica em Java (POO, coleções, herança, polimorfismo)<br>  
-🔹 <a href="https://github.com/FabricioVianna/abrigo-animais"><b>Abrigo de Animais</b></a> — Desafio técnico em JavaScript (Node.js + Jest)<br>  
-🔹 <a href="#"><b>Saúde Agendada</b></a> — Projeto acadêmico para otimizar agendamentos no sistema público de saúde<br>  
-🔹 <a href="https://github.com/fabricio-vianna/cost-of-production-calculator"><b>Cost of Production Calculator</b></a> — Sistema Java para cálculo de custos de produção  
-</div>
+<ul>
+  <li>
+    <a href="https://github.com/fabricio-vianna/taskflow-api">
+      <b>taskflow-api</b>
+    </a> — API REST com Spring Boot (JPA, Hibernate, arquitetura em camadas)
+  </li>
+
+  <li>
+    <a href="https://github.com/fabricio-vianna/school-management-api">
+      <b>school-management-api</b>
+    </a> — Sistema de gestão acadêmica com JDBC (DAO, MySQL, arquitetura em camadas)
+  </li>
+
+  <li>
+    <a href="https://github.com/fabricio-vianna/chess-engine-java">
+      <b>chess-engine-java</b>
+    </a> — Engine de xadrez em Java (POO, regras de negócio, tratamento de exceções)
+  </li>
+
+  <li>
+    <a href="https://github.com/fabricio-vianna/adoption-rules-engine-js">
+      <b>adoption-rules-engine-js</b>
+    </a> — Motor de regras para adoção de animais (JavaScript, lógica de negócio, testes com Jest)
+  </li>
+</ul>
 
 <p align="center">
   <br>
@@ -106,7 +85,7 @@
 </p>
 
 <!-- Seção de Contato -->
-<h2 align="center">🌐 Conecte-se comigo</h2>
+<h2>🌐 Conecte-se comigo</h2>
 
 <p align="center">
   <a href="https://www.instagram.com/_fabricio.vianna_/" target="_blank" rel="noopener noreferrer">
@@ -139,7 +118,7 @@
   </a>
 </p>
 
-<h2 align="center">Minha atividade no GitHub</h2>
+<h2>Minha atividade no GitHub</h2>
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img
