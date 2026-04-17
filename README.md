@@ -144,12 +144,13 @@
       alt="Whatsapp"
     />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&to=fab.vianna.1976@gmail.com&subject=Contato%20via%20GitHub&body=Olá%20Fabricio,%20vi%20seu%20perfil%20no%20GitHub." target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=fab.vianna.1976@gmail.com&subject=Contato%20via%20GitHub&body=Olá%20Fabricio,%20vi%20seu%20perfil%20no%20GitHub." target="_blank" rel="noopener noreferrer">
   <img
-    src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=0A66C2&logoColor=white&style=for-the-badge"
+    src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge"
     height="26"
     alt="Gmail"
   />
+    </a>
   </a>
 </p>
 
