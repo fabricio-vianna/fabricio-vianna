@@ -27,7 +27,7 @@
   🚀 Buscando minha primeira oportunidade como desenvolvedor, com foco em aprendizado contínuo e colaboração em equipe
 
 <!-- Seção de Habilidades -->
-##🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias & Ferramentas
 
 #### **Languages**
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
@@ -51,7 +51,7 @@
 ![JavaFX](https://img.shields.io/badge/-JavaFX-FF6600?style=flat&logo=java&logoColor=white)
 
 <!-- Seção de Projetos -->
-##🚀 Projetos em Destaque
+## 🚀 Projetos em Destaque
 
 <ul>
   <li>
@@ -85,7 +85,7 @@
 </p>
 
 <!-- Seção de Contato -->
-##🌐 Conecte-se comigo
+## 🌐 Conecte-se comigo
 
 <p align="center">
   <a href="https://www.instagram.com/_fabricio.vianna_/" target="_blank" rel="noopener noreferrer">
@@ -118,7 +118,7 @@
   </a>
 </p>
 
-##Minha atividade no GitHub
+## Minha atividade no GitHub
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img
