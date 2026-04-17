@@ -120,33 +120,36 @@
 ## 🌐 Conecte-se comigo
 
 <p align="center">
-  <a href="https://www.instagram.com/_fabricio.vianna_/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/_fabricio.vianna_/" 
+    target="_blank" rel="noopener noreferrer">
     <img
       src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge"
       height="26"
       alt="Instagram"
     />
   </a>
-  <a href="https://www.linkedin.com/in/fabricio-vianna/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/fabricio-vianna/" 
+    target="_blank" rel="noopener noreferrer">
     <img
       src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge"
       height="26"
       alt="LinkedIn"
     />
   </a>
-  <a href="https://wa.me/5521981156786" target="_blank" rel="noopener noreferrer">
+  <a href="https://wa.me/5521981156786" 
+    target="_blank" rel="noopener noreferrer">
     <img
       src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge"
       height="26"
       alt="Whatsapp"
     />
   </a>
-  <a href="mailto:fab.vianna.1976@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge"
-      height="26"
-      alt="Gmail"
-    />
+  <a href="https://mail.google.com/mail/?view=cm&to=fab.vianna.1976@gmail.com&subject=Contato%20via%20GitHub&body=Olá%20Fabricio,%20vi%20seu%20perfil%20no%20GitHub." target="_blank">
+  <img
+    src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=0A66C2&logoColor=white&style=for-the-badge"
+    height="26"
+    alt="Gmail"
+  />
   </a>
 </p>
 
