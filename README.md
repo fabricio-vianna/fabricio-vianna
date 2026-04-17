@@ -27,31 +27,31 @@
   🚀 Buscando minha primeira oportunidade como desenvolvedor, com foco em aprendizado contínuo e colaboração em equipe
 
 <!-- Seção de Habilidades -->
-<h2>🛠️ Tecnologias & Ferramentas</h2>
+##🛠️ Tecnologias & Ferramentas
 
-<h4>Languages</h4>
+#### **Languages**
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat)
 
-<h4>Backend</h4>
+#### **Backend**
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 
-<h4>Databases</h4>
+#### **Databases**
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![H2](https://img.shields.io/badge/-H2-0A0A0A?style=flat)
 
-<h4>Tools</h4>
+#### **Tools**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 
-<h4>Other</h4>
+#### **Other**
 ![JavaFX](https://img.shields.io/badge/-JavaFX-FF6600?style=flat&logo=java&logoColor=white)
 
 <!-- Seção de Projetos -->
-<h2>🚀 Projetos em Destaque</h2>
+##🚀 Projetos em Destaque
 
 <ul>
   <li>
@@ -85,7 +85,7 @@
 </p>
 
 <!-- Seção de Contato -->
-<h2>🌐 Conecte-se comigo</h2>
+##🌐 Conecte-se comigo
 
 <p align="center">
   <a href="https://www.instagram.com/_fabricio.vianna_/" target="_blank" rel="noopener noreferrer">
@@ -118,7 +118,7 @@
   </a>
 </p>
 
-<h2>Minha atividade no GitHub</h2>
+##Minha atividade no GitHub
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img
