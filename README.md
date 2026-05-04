@@ -90,6 +90,7 @@
   🧱 <i>Mais projetos acadêmicos e pessoais em desenvolvimento...</i>
 </p>
 
+<!--
 ---
 
 ### 📊 Estatísticas do GitHub
@@ -102,6 +103,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=fabricio-vianna&theme=dracula&hide_border=false&background=0D1117&ring=BD00FF&fire=FF6EC7&currStreakLabel=00D9FF" alt="GitHub Streak" />
 </div>
+-->
 
 ---
 
