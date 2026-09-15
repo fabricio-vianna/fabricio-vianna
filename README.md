@@ -20,13 +20,14 @@
 
 <!-- Seção de Apresentação -->
 
-## 💻 Desenvolvedor Back-End (Java)
+## 💻 Desenvolvedor Back-End Java
 
   🎓 Estudante de **Sistemas de Informação** na **PUC Minas**  
-  ☕ Focado em **Desenvolvimento Back-End com Java**  
-  💡 Construindo uma base sólida em **POO, JDBC, boas práticas de código e arquitetura de sistemas**  
+  ☕ Focado em **Desenvolvimento Back-End com Java e Spring Boot**  
+  💡 Experiência prática com **POO, APIs REST, arquitetura em camadas, DTOs e persistência de dados**  
+  🔐 Conhecimentos em **Spring Security e JWT**  
   🌐 Conhecimentos complementares em **HTML, CSS e JavaScript**  
-  🚀 Buscando minha primeira oportunidade como desenvolvedor, com foco em aprendizado contínuo e colaboração em equipe
+  🚀 Buscando minha primeira oportunidade de **estágio em tecnologia**, com foco em desenvolvimento Back-End Java
 
 ---
 
@@ -41,14 +42,18 @@
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
 #### **Bancos de Dados**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![H2](https://img.shields.io/badge/-H2-0A0A0A?style=flat)
 
 #### **Ferramentas**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 
 #### **Outros**
@@ -61,27 +66,33 @@
 
 <ul>
   <li>
+    <a href="https://github.com/fabricio-vianna/personal-finance-api">
+      <b>personal-finance-api</b>
+    </a> — API REST de gerenciamento financeiro com Spring Boot, JPA/Hibernate, PostgreSQL, Spring Security e JWT
+  </li>
+
+  <li>
     <a href="https://github.com/fabricio-vianna/taskflow-api">
       <b>taskflow-api</b>
-    </a> — API REST com Spring Boot (JPA, Hibernate, arquitetura em camadas)
+    </a> — API REST com Spring Boot, JPA, Hibernate e arquitetura em camadas
   </li>
 
   <li>
     <a href="https://github.com/fabricio-vianna/school-management-api">
       <b>school-management-api</b>
-    </a> — Sistema de gestão acadêmica com JDBC (DAO, MySQL, arquitetura em camadas)
+    </a> — Sistema de gestão acadêmica com JDBC, DAO, MySQL e arquitetura em camadas
   </li>
 
   <li>
     <a href="https://github.com/fabricio-vianna/chess-engine-java">
       <b>chess-engine-java</b>
-    </a> — Engine de xadrez em Java (POO, regras de negócio, tratamento de exceções)
+    </a> — Engine de xadrez em Java, aplicando POO, regras de negócio e tratamento de exceções
   </li>
 
   <li>
     <a href="https://github.com/fabricio-vianna/adoption-rules-engine-js">
       <b>adoption-rules-engine-js</b>
-    </a> — Motor de regras para adoção de animais (JavaScript, lógica de negócio, testes com Jest)
+    </a> — Motor de regras para adoção de animais em JavaScript, com testes utilizando Jest
   </li>
 </ul>
 
@@ -105,6 +116,8 @@
 </div>
 -->
 
+<!--
+
 ---
 
 ## Minha atividade no GitHub
@@ -117,6 +130,8 @@
 </p>
 
 ---
+
+-->
 
 <!-- Seção de Contato -->
 ## 🌐 Conecte-se comigo
